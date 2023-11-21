@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Faizan Ahamd
+- 👀 I’m interested in Django
+- 🌱 I’m currently learning Google Cloud API
+- 📫 How to reach me Linkedin
